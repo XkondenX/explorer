@@ -13,7 +13,7 @@
     </b-link>
 
     <p class="mb-1">
-      Individual explorer staking service XkondenX 
+      Individual explorer staking service XkondenX
     </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
